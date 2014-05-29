@@ -3,7 +3,20 @@
  * Copyright (c) 2013 Cybozu
  * 
  * Licensed under the MIT License
+ * 
+ * https://developers.cybozu.com/ja/tutorial/sample3.html
+ *
+ */ 
+ 
+ /*
+ * Copied & Modified by Ryu Yamashita
+ *
+ * 【注意】
+ * 　・利用に際しては上記オリジナルサイトをご一読ください
+ * 　・ガントチャートライブラリの読み込みにRawGitを利用していますので、CDNとしての継続性等には各自ご注意ください
+ * 
  */
+ 
 (function () {
  
     "use strict";

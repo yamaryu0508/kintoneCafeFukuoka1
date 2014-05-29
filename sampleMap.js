@@ -3,6 +3,17 @@
  * Copyright (c) 2013 Cybozu
  * 
  * Licensed under the MIT License
+ *
+ * https://developers.cybozu.com/ja/tutorial/sample10.html
+ *
+ */ 
+ 
+ /*
+ * Copied by Ryu Yamashita
+ *
+ * 【注意】
+ * 　・利用に際しては上記オリジナルサイトをご一読ください
+ * 
  */
  
 (function () {
